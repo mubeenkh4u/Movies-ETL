@@ -1,4 +1,4 @@
-# RBC-Module-8-ETL-Extract-Transform-Load
+# Movies-ETL-Extract-Transform-Load
 
 During the course of this project we deep dived into the process of Extracting, Transforming and Loading data from various file formats into an SQL Database.
 
